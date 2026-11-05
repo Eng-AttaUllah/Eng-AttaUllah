@@ -54,16 +54,6 @@ I enjoy working with **datasets, models, and code** — turning raw data into pr
 
 ---
 
-## 📊 Today's Activity
-
-<!-- README-AUTO-START -->
-🗓️ **Last updated:** November 05, 2026 (UTC)
-🔥 **Current streak:** 1 day
-📝 **Contributions this year:** 35
-<!-- README-AUTO-END -->
-
----
-
 ## Connect
 
 <p align="center">
