@@ -12,13 +12,13 @@
 
 ## About Me
 
-I’m **Atta Ullah**, an Artificial Intelligence undergraduate focused on machine learning, data-driven problem solving, and building practical AI projects.
+I'm **Atta Ullah**, a Computer Science (**Artificial Intelligence**) undergraduate at Abdul Wali Khan University Mardan, building practical AI systems — from on-device Android classifiers and computer-vision surveillance to data-driven prediction models.
 
-My stack includes **Python, Jupyter, scikit-learn, Pandas, NumPy, and Matplotlib**, along with **Git and GitHub** for collaboration and version control.
+My stack spans **Python, scikit-learn, Pandas, NumPy, and OpenCV** on the AI/ML side, **Kotlin and Android** for mobile, and **TypeScript, React, Vite, and Tailwind CSS** on the web. I work with **Git and GitHub** every day.
 
-I enjoy working with **datasets, models, and code** — turning raw data into predictions and ideas into working projects. Recently I’ve been building classifiers and prediction models, and I’m always exploring something new in AI.
+My current focus is **AdVeto** — our final-year project that detects ad regions on Android and classifies age-aware risk on-device with a quantised multimodal model.
 
-**Currently exploring AI, one project at a time.**
+**Turning raw data into predictions, and ideas into working projects.**
 
 ---
 
@@ -31,13 +31,54 @@ I enjoy working with **datasets, models, and code** — turning raw data into pr
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Eng-AttaUllah/AdVeto">AdVeto</a></h3>
+      On-device ad-region detection and age-aware risk classification for Android (API 29–35).<br/>
+      <sub>Kotlin · Android · ML · OCR</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎥 <a href="https://github.com/Eng-AttaUllah/Theft-Detection">Shop Theft Detection</a></h3>
+      Offline CCTV surveillance that flags suspicious behaviour in real time.<br/>
+      <sub>Python · OpenCV · ByteTrack</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📧 <a href="https://github.com/Eng-AttaUllah/Spam-Detector-with-98--accuracy">SMS Spam Detector</a></h3>
+      TF-IDF + Logistic Regression classifier with an optional DistilBERT model and Streamlit app.<br/>
+      <sub>Python · scikit-learn · Streamlit</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://eng-attaullah.github.io/Atta-Ullah-Portfolio/">Portfolio</a></h3>
+      Personal site and résumé, with content driven from data files.<br/>
+      <sub>React · TypeScript · Tailwind CSS</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,6 +98,9 @@ I enjoy working with **datasets, models, and code** — turning raw data into pr
 ## Connect
 
 <p align="center">
+  <a href="https://eng-attaullah.github.io/Atta-Ullah-Portfolio/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/attaullah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -74,7 +118,7 @@ I enjoy working with **datasets, models, and code** — turning raw data into pr
 ---
 
 <p align="center">
-  <i>"Exploring AI, one project at a time ∞ ."</i>
+  <i>"Turning raw data into predictions, and ideas into working projects ∞ ."</i>
 </p>
 
 <p align="center">
