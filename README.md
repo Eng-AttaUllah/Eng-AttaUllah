@@ -86,11 +86,15 @@ My current focus is **AdVeto** — our final-year project that detects ad region
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Eng-AttaUllah&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-AttaUllah&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Eng-AttaUllah&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Eng-AttaUllah&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ec4899/Eng-AttaUllah" alt="Eng-AttaUllah's contribution graph" width="100%" />
 </p>
 
 ---
@@ -104,7 +108,7 @@ My current focus is **AdVeto** — our final-year project that detects ad region
   <a href="https://www.linkedin.com/in/attaullah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:realattaullah461@gmail.com">
+  <a href="mailto:devbyattaullah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Eng-AttaUllah">
