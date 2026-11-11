@@ -4,9 +4,11 @@
 
 # Atta Ullah
 
-[![Profile Views](https://komarev.com/ghpvc/?username=eng-attaullah&color=ff69b4&style=flat-square&label=views)](https://github.com/Eng-AttaUllah)
-[![GitHub followers](https://img.shields.io/github/followers/Eng-AttaUllah?style=flat-square&color=a855f7&label=followers)](https://github.com/Eng-AttaUllah)
-[![GitHub stars](https://img.shields.io/github/stars/Eng-AttaUllah?style=flat-square&color=ec4899&label=stars)](https://github.com/Eng-AttaUllah)
+**CS (AI) undergraduate · ML, Android & full-stack developer**
+
+[![Profile views](https://komarev.com/ghpvc/?username=eng-attaullah&style=flat-square&color=a855f7&label=views)](https://github.com/Eng-AttaUllah)
+[![Open to work](https://img.shields.io/badge/Open_to_work-2EA44F?style=flat-square)](#connect)
+[![BSCS (AI) — AWKUM](https://img.shields.io/badge/BSCS_%28AI%29-AWKUM-3178C6?style=flat-square)](https://awkum.edu.pk)
 
 ---
 
