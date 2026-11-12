@@ -12,6 +12,14 @@
 
 ---
 
+## Now
+
+**Nov 2026** — building **EasyShop**, an offline-first shop management app with a
+confirm-before-save AI assistant (Next.js · Prisma · SQLite), and polishing
+**[ZYR0](https://zyroo.org)**, a live internship platform.
+
+---
+
 ## About Me
 
 I'm **Atta Ullah**, a Computer Science (**Artificial Intelligence**) undergraduate at Abdul Wali Khan University Mardan, building practical AI systems — from on-device Android classifiers and computer-vision surveillance to data-driven prediction models.
