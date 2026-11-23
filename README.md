@@ -16,7 +16,7 @@
 
 ## Now
 
-**Nov 2026** — shipping **[EasyShop](https://github.com/Eng-AttaUllah/EasyShop)**, an offline-first shop management app with a confirm-before-save AI assistant (Next.js · Prisma · SQLite), and polishing **[ZYR0](https://zyroo.org)**, a live internship platform.
+**Nov 23, 2026** — building **[EasyShop](https://github.com/Eng-AttaUllah/EasyShop)**, an offline-first shop management app with a confirm-before-save AI assistant (Next.js · Prisma · SQLite). **[ZYR0](https://zyroo.org)** is live as an ecosystem of tools for building, learning, research, and internships.
 
 Flagship FYP: **[AdVeto](https://github.com/Eng-AttaUllah/AdVeto)** — on-device ad detection and age-aware risk classification for Android.
 
