@@ -16,9 +16,9 @@
 
 ## Now
 
-**Nov 23, 2026** — **[EasyShop](https://github.com/Eng-AttaUllah/EasyShop)** has completed its single-shop feature phases; Phase 13 multi-shop accounts are the current build target. It uses local SQLite and an AI assistant whose proposed changes require confirmation. **[ZYR0](https://zyroo.org)** is live as an ecosystem of tools for building, learning, research, and internships.
+**Nov 23, 2026** — **[EasyShop](https://github.com/Eng-AttaUllah/EasyShop)** has completed its single-shop feature phases; Phase 13 multi-shop accounts are the current build target. It uses local SQLite and an AI assistant whose proposed changes require confirmation. **[ZYR0](https://zyroo.org)** is a live ecosystem for building, learning, research, and work, including its internship platform.
 
-Flagship FYP: **[AdVeto](https://github.com/Eng-AttaUllah/AdVeto)** — an Android research prototype (API 29–35) combining image and OCR text models for age-aware ad-risk decisions; model integration and int8 evaluation are in progress.
+Flagship FYP: **[AdVeto](https://github.com/Eng-AttaUllah/AdVeto)** — an Android research prototype (API 29–35) planned to combine image and OCR text models for age-aware ad-risk decisions. The scaffold and toolchain are ready; the feasibility pilot and model evaluation are next.
 
 ---
 
@@ -28,7 +28,7 @@ I'm **Atta Ullah**, a Computer Science (**Artificial Intelligence**) undergradua
 
 My stack spans **Python** (scikit-learn, Pandas, NumPy, OpenCV) on the AI/ML side, **Kotlin and Android** for mobile, and **TypeScript, React, and Tailwind CSS** on the web. I work with **Git and GitHub** every day.
 
-**AdVeto** is my final-year flagship: an Android 10–15 (API 29–35) research prototype that detects ad regions, scores image and OCR text with separate models, fuses their scores, and applies an age-aware allow / cover / abstain policy. Integration and int8 evaluation are still in progress. Alongside that, I'm building **EasyShop** toward its multi-shop phase and working on **ZYR0**.
+**AdVeto** is my final-year flagship: an Android 10–15 (API 29–35) research prototype planned to detect ad regions, score image and OCR text with separate models, fuse their scores, and apply an age-aware allow / cover / abstain policy. Its scaffold and toolchain are ready; the feasibility pilot and model evaluation are next. I’m advancing **EasyShop** toward its Phase 13 multi-shop build and developing **ZYR0**, a live ecosystem for building, learning, research, and work that includes an internship platform.
 
 **Turning raw data into predictions, and ideas into working projects.**
 
@@ -40,12 +40,12 @@ My stack spans **Python** (scikit-learn, Pandas, NumPy, OpenCV) on the AI/ML sid
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Eng-AttaUllah/AdVeto">AdVeto</a></h3>
-      Android research prototype (API 29–35): ad-region detection, image + OCR text scoring, score fusion, and age-aware allow / cover / abstain decisions. Model integration and int8 evaluation are in progress.<br/>
+      Android research prototype (API 29–35): planned ad-region detection, image + OCR text scoring, score fusion, and age-aware allow / cover / abstain decisions. Scaffold and toolchain are ready; feasibility pilot and model evaluation are next.<br/>
       <sub>Kotlin · Android · ML · OCR</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Eng-AttaUllah/EasyShop">EasyShop</a></h3>
-      Local SQLite shop-management app for stock, sales, customer credit, expenses, and reports. Its assistant can prepare changes that require owner confirmation; multi-shop accounts are the next build phase.<br/>
+      Local SQLite shop-management app for stock, sales, customer credit, expenses, and reports. Its assistant prepares changes that require owner confirmation; Phase 13 multi-shop accounts are the current build target.<br/>
       <sub>Next.js · Prisma · SQLite</sub>
     </td>
   </tr>
@@ -63,7 +63,7 @@ My stack spans **Python** (scikit-learn, Pandas, NumPy, OpenCV) on the AI/ML sid
   </tr>
 </table>
 
-Also live: **[ZYR0](https://zyroo.org)** (internship platform) · **[Portfolio](https://eng-attaullah.github.io/Atta-Ullah-Portfolio/)**
+Also live: **[ZYR0](https://zyroo.org)** (ecosystem for building, learning, research, and work; includes an internship platform) · **[Portfolio](https://eng-attaullah.github.io/Atta-Ullah-Portfolio/)**
 
 ---
 
